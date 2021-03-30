@@ -297,9 +297,8 @@
         font-family: Arial, Helvetica, sans-serif;
     }
     .img-mod{
-        width: 250px;
+        width: 300px;
         padding: 20px;
-        background-color: #eba309;
         border: 10px solid #000;
     }
     .conteudo2 figcaption{
